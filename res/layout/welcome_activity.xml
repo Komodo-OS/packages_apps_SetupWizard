@@ -33,6 +33,7 @@
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
                 android:scaleType="centerCrop"
+                android:layout_marginHorizontal="65dp"
                 android:src="@drawable/logo" />
 
             <Space
